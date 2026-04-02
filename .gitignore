@@ -1,0 +1,41 @@
+# Datasets
+3S-TBLN/data/
+MT-STGIN/data/
+ST-ANet/data/
+*/data/
+
+# Large data files
+*.csv
+*.npz
+*.npy
+
+# Model weights and checkpoints
+weights/
+checkpoint/
+*.ckpt*
+*.h5
+
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.egg/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+temp.py
