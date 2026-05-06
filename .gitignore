@@ -1,4 +1,4 @@
-Not_Needed/
+NotNeeded/
 
 # Datasets
 3S-TBLN/data/
@@ -41,3 +41,6 @@ Thumbs.db
 *.tmp
 *.log
 temp.py
+
+
+*.md
